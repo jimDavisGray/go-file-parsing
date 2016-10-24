@@ -1,0 +1,30 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-10-21 00:03:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2016-10-21 00:03:04 10.96.17.36 POST /ServiceHub/FormsQueryService.svc - 80 - 10.96.17.23 - 200 0 0 93
+2016-10-21 00:03:04 10.96.17.36 POST /ServiceHub/FormsQueryService.svc - 80 - 10.96.17.23 - 200 0 0 31
+2016-10-21 00:03:05 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 296
+2016-10-21 00:03:05 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:03:05 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:03:05 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 218
+2016-10-21 00:03:09 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 78
+2016-10-21 00:03:09 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 0
+2016-10-21 00:03:10 10.96.17.36 POST /ServiceHub/FormsService.svc - 80 - 10.96.17.23 - 200 0 0 62
+2016-10-21 00:03:59 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 312
+2016-10-21 00:03:59 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:03:59 10.96.17.36 POST /servicehub/DecisionPointDataService.svc - 80 - 10.96.17.23 - 200 0 0 62
+2016-10-21 00:03:59 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 218
+2016-10-21 00:04:02 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 62
+2016-10-21 00:04:02 10.96.17.36 POST /ServiceHub/DueDiligenceService.svc - 80 - 10.96.17.23 - 200 0 0 15
+2016-10-21 00:04:03 10.96.17.36 POST /ServiceHub/FormsService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:04:15 10.96.17.36 POST /ServiceHub/FormsService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:06:45 10.96.17.36 POST /ServiceHub/FormsService.svc - 80 - 10.96.17.23 - 200 0 0 46
+2016-10-21 00:06:49 10.96.17.36 POST /ServiceHub/FormsQueryService.svc - 80 - 10.96.17.23 - 200 0 0 249
+2016-10-21 00:06:53 10.96.17.36 POST /ServiceHub/FormsService.svc - 80 - 10.96.17.23 - 200 0 0 3915
+2016-10-21 00:06:55 10.96.17.36 POST /ServiceHub/DpIndexingService.svc - 80 - 10.96.17.23 - 202 0 0 187
+2016-10-21 00:07:08 10.96.17.36 POST /servicehub/NewLoggingService.svc - 80 - 10.96.20.78 - 202 0 0 31
+2016-10-21 00:07:08 10.96.17.36 POST /servicehub/NewLoggingService.svc - 80 - 10.96.20.78 - 202 0 0 78
+2016-10-21 00:07:08 10.96.17.36 POST /servicehub/NewLoggingService.svc - 80 - 10.96.20.78 - 202 0 0 109
+2016-10-21 00:07:08 10.96.17.36 POST /servicehub/NewLoggingService.svc - 80 - 10.96.20.78 - 202 0 0 218
+2016-10-21 00:07:09 10.96.17.36 POST /servicehub/NewLoggingService.svc - 80 - 10.96.20.78 - 202 0 0 202
